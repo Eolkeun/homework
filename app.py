@@ -20,7 +20,7 @@ def homework_post():
     }
 
     db.homework.insert_one(doc)
-
+    print("hi")
     return jsonify({'msg':'응원 완료!'})
 
 @app.route("/homework", methods=["GET"])
