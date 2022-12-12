@@ -17,8 +17,8 @@
 
 <br>
 
-### 웹사이트 - [카냐 바로가기](https://ca-nya.com/)
-### 팀 노션 - [카냐 팀노션 바로가기](https://www.notion.so/99-4-dcbf8104c68b4d3a940968c05371e21a)
+### 👉 웹사이트 - [카냐 바로가기](https://ca-nya.com/)
+### 👉 팀 노션 - [카냐 팀노션 바로가기](https://www.notion.so/99-4-dcbf8104c68b4d3a940968c05371e21a)
 
 <br>
 
