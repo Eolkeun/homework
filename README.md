@@ -1,7 +1,10 @@
 # ✨ 카냐(CA NYA) ✨
 
+<br>
+
 ![2](https://user-images.githubusercontent.com/113230019/207134762-c6c9e619-c272-4757-af0c-2327efd57ea8.png)
 
+<br>
 
 ## ✏서비스 소개✏
 좋은 카페를 찾고 싶고, 좋은 카페를 공유하고 싶으신가요?
@@ -24,6 +27,7 @@
 진행기간
 2022년 11월 03일 ~ 2022년 12월 16일
 
+<br>
 
 ## 팀원 소개
 |이름|github|position|
@@ -35,19 +39,23 @@
 |김병기|https://github.com/Eolkeun|BE|
 |김정윤||UX/UI|
 
+<br>
 
 ## 서비스 아키텍쳐
 
 ![1](https://user-images.githubusercontent.com/113230019/207134801-e8b3e958-2e3a-4fb9-be57-c34c6ff4e61e.png)
 
+<br>
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
+<br>
 
 ## 기술 스택 사용이유
 ### 기술 스택 사용이유 - [노션 보러가기](https://rocky-mercury-85d.notion.site/Ca-Nya-4-9304947435c3401fae79601e18ed287a)
 
+<br>
 
 ## 주요기능
 
@@ -56,12 +64,15 @@
 - BE
 
 
+<br>
+
 ## 트러블 슈팅
 
  <details>
  <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
+  <br>
   
  트러블슈팅 내용
 
@@ -73,6 +84,7 @@
   <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
+  <br>
   
  트러블슈팅 내용
   
@@ -84,6 +96,7 @@
   <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
+  <br>
   
  트러블슈팅 내용
 
