@@ -41,28 +41,7 @@
 ![1](https://user-images.githubusercontent.com/113230019/207134801-e8b3e958-2e3a-4fb9-be57-c34c6ff4e61e.png)
 
 
-
-## API
-
-사진
-
-
-## 와이어 프레임
-### [와이어 프레임 바로가기](https://www.figma.com/file/5Pscfs9bVNXYY69BrU4gM5/%EC%B9%B4%EB%83%90-(%EA%B3%B5%EC%9C%A0%EB%B0%A9)?node-id=66%3A2&t=wqzWOlMe4OTJzhAL-0)
-
-
-## ERD
-
-사진
-
-
 ## 기술 스택
-
-
-## 툴
-
-
-## 서버
 
 
 ## 기술스택 & 라이브러리
