@@ -45,15 +45,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
 
-## 기술스택 & 라이브러리
-|기술스택|사용이유|
-|------|---|
-|스택명|사용이유|
-|스택명|사용이유|
-|스택명|사용이유|
-|스택명|사용이유|
-|스택명|사용이유|
-|스택명|사용이유|
+## 기술 스택 사용이유
+### 기술 스택 사용이유 [노션 보러가기](https://rocky-mercury-85d.notion.site/Ca-Nya-4-9304947435c3401fae79601e18ed287a)
 
 
 ## 주요기능
