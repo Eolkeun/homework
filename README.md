@@ -14,8 +14,8 @@
 
 카페리뷰 외에도 커뮤니티를 통해 카페를 좋아하는 유저간에 자유로운 소통을 할수있어요! 💛
 
-### 웹사이트 [카냐 바로가기](https://ca-nya.com/)
-### 팀 노션 [카냐 팀노션 바로가기](https://www.notion.so/99-4-dcbf8104c68b4d3a940968c05371e21a)
+### 웹사이트 - [카냐 바로가기](https://ca-nya.com/)
+### 팀 노션 - [카냐 팀노션 바로가기](https://www.notion.so/99-4-dcbf8104c68b4d3a940968c05371e21a)
 
 ---
 
@@ -46,7 +46,7 @@
 
 
 ## 기술 스택 사용이유
-### 기술 스택 사용이유 [노션 보러가기](https://rocky-mercury-85d.notion.site/Ca-Nya-4-9304947435c3401fae79601e18ed287a)
+### 기술 스택 사용이유 - [노션 보러가기](https://rocky-mercury-85d.notion.site/Ca-Nya-4-9304947435c3401fae79601e18ed287a)
 
 
 ## 주요기능
@@ -62,10 +62,8 @@
  <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
- ```
  트러블슈팅 내용
 
- ```
  
  </div>
  </details>
@@ -74,10 +72,8 @@
   <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
- ```
  트러블슈팅 내용
-
- ```
+  
  
  </div>
  </details>
@@ -86,10 +82,8 @@
   <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
- ```
  트러블슈팅 내용
 
- ```
  
  </div>
  </details>
