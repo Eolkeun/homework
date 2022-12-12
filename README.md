@@ -184,7 +184,7 @@
 ## 🚀 트러블 슈팅
 
  <details>
- <summary>트러블 슈팅 제목</summary>
+ <summary>트러블 슈팅</summary>
  <div markdown="1">       
 
   <br>
@@ -196,7 +196,7 @@
  </details>
  
  <details>
-  <summary>트러블 슈팅 제목</summary>
+  <summary>트러블 슈팅</summary>
  <div markdown="1">       
 
   <br>
@@ -208,7 +208,7 @@
  </details>
  
   <details>
-  <summary>트러블 슈팅 제목</summary>
+  <summary>트러블 슈팅</summary>
  <div markdown="1">       
 
   <br>
