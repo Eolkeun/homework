@@ -43,29 +43,22 @@
 ## ERD
 사진
 
----
+## 기술 스택
 
-### 기술 스택
+## 툴
 
-### 툴
-
-### 서버
-
----
+## 서버
 
 ## 주요기능
 
----
-
-### 트러블 슈팅
+## 트러블 슈팅
 
  <details>
- <summary>데이터 새로고침 이슈</summary>
+ <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
  ```
- 리렌더링 이슈 발생하여 수정 완료.
- 특정 데이터 수정시 새고고침해야 수정 가능했으나 현재는 수정 완료.
+ 트러블슈팅 내용
 
  ```
  
@@ -73,11 +66,11 @@
  </details>
  
  <details>
-  <summary>채팅 (SockJS, Stomp)</summary>
+  <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
  ```
- 백엔드에서 Stomp와 SockJS 둘 다 사용가능하도록 구현해둔 상황에서 프론트와 서버 통신하는 과정 중 localhost를 *로 푸는 대신 특정 포트를 지정해서 풀어줌으로써 수정 완료.
+ 트러블슈팅 내용
 
  ```
  
@@ -85,12 +78,11 @@
  </details>
  
   <details>
-  <summary>순환 참조 issue</summary>
+  <summary>트러블 슈팅 제목</summary>
  <div markdown="1">       
 
  ```
- 로그인시 멤버와 엮여있는 코멘트 부분이 순환참조되어 따라왔었습니다.
- 이를 memberDto에 담음으로써 순환참조를 끊어줘서 해결했습니다.
+ 트러블슈팅 내용
 
  ```
  
