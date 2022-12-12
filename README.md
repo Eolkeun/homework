@@ -103,9 +103,65 @@
 
 ## 주요기능
 
-- FE
+<details>
+ <summary>주요기능</summary>
+ <div markdown="1">       
 
-- BE
+  <br>
+  
+ 주요기능 내용
+
+ 
+ </div>
+ </details>
+
+<details>
+ <summary>주요기능</summary>
+ <div markdown="1">       
+
+  <br>
+  
+ 주요기능 내용
+
+ 
+ </div>
+ </details>
+ 
+ <details>
+ <summary>주요기능</summary>
+ <div markdown="1">       
+
+  <br>
+  
+ 주요기능 내용
+
+ 
+ </div>
+ </details>
+ 
+ <details>
+ <summary>주요기능</summary>
+ <div markdown="1">       
+
+  <br>
+  
+ 주요기능 내용
+
+ 
+ </div>
+ </details>
+ 
+ <details>
+ <summary>주요기능</summary>
+ <div markdown="1">       
+
+  <br>
+  
+ 주요기능 내용
+
+ 
+ </div>
+ </details>
 
 
 <br>
