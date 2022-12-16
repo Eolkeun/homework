@@ -4,7 +4,7 @@
  
  
 
-<img src="https://user-images.githubusercontent.com/113230019/208030030-614a6f41-d30f-4b07-89ec-1b6c6e7fd1df.gif" width="300">
+![마이페이지 G](https://user-images.githubusercontent.com/113230019/208030030-614a6f41-d30f-4b07-89ec-1b6c6e7fd1df.gif)
 
 
 ![반응형 웹사이트](https://user-images.githubusercontent.com/113230019/208030296-0cdd32a2-0d01-4674-af84-ba9cf774d61a.gif)
