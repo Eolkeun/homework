@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/84265783/194710362-81fb0bb3-8dfe-420e-996b-9fe94b28b3da.gif" width="300">
  
  
+ ![1-1](https://user-images.githubusercontent.com/113230019/208031296-14605977-83a9-4dd1-b61e-7140edd708b5.gif)
 
-![마이페이지 G](https://user-images.githubusercontent.com/113230019/208030030-614a6f41-d30f-4b07-89ec-1b6c6e7fd1df.gif)
 
 
 ![반응형 웹사이트](https://user-images.githubusercontent.com/113230019/208030296-0cdd32a2-0d01-4674-af84-ba9cf774d61a.gif)
