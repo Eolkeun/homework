@@ -1,8 +1,12 @@
 # ✨ 카냐(CA NYA) ✨
 
 <img src="https://user-images.githubusercontent.com/84265783/194710362-81fb0bb3-8dfe-420e-996b-9fe94b28b3da.gif" width="300">
-  <img src="https://user-images.githubusercontent.com/84265783/194705245-90084918-5f83-495f-8804-9bbcd0e6fa8a.gif" width="300">
-    <img src="https://user-images.githubusercontent.com/84265783/194713505-59592dd2-dcd3-4d8b-b85f-9462b5940d3d.gif" width="300">
+ 
+ 
+
+https://user-images.githubusercontent.com/113230019/208030030-614a6f41-d30f-4b07-89ec-1b6c6e7fd1df.gif
+
+
 
 <br>
 
